@@ -41,4 +41,7 @@
          does not work well, particularly with noisy touchscreens. Note that disabling it may
          increase the rate of unintentional unlocks. -->
     <bool name="config_lockscreenAntiFalsingClassifierEnabled">true</bool>
+
+    <!-- Active Edge -->
+    <bool name="has_elmyra_service">true</bool>
 </resources>
